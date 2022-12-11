@@ -1,5 +1,6 @@
 {
   "name": "weather-report",
+  "homepage": "https://bimanTheCoderBoy.github.io/weather-info",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
